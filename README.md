@@ -2,7 +2,7 @@
   I'm Billy Kemboi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00C2CB&vCenter=true&width=600&lines=Software+Enginnering+and+Website+Maintainance...;Develloping+Websites+f+rom+Scratch.;Building+Solutions+to+a+particular+problem.;Debugging+Errors+in+existing+websites%2C+and+also+improving+it.;Learning%2C+Improving%2C+Creating+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00C2CB&vCenter=true&width=600&lines=Software+Enginnering+and+Website+Maintainance...;Develloping+Websites+from+Scratch.;Building+Solutions+to+a+particular+problem.;Debugging+Errors+in+existing+websites%2C+and+also+improving+it.;Learning%2C+Improving%2C+Creating+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
