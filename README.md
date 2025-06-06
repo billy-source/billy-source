@@ -78,7 +78,10 @@ Currently expanding my knowledge in **Full-Stack development**, more so in **Fro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
 
 </p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=18mori&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=18mori&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=18mori&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 <div align="center">
