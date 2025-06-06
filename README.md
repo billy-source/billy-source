@@ -2,7 +2,7 @@
   I'm Billy Kemboi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00C2CB&vCenter=true&width=600&lines=Software+Enginnering+and+Website+Maintainance...;Develloping+Websites+from+Scratch.;Building+Solutions+to+a+particular+problem.;Debugging+Errors+in+existing+websites%2C+and+also+improving+it.;Learning%2C+Improving%2C+Creating+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00C2CB&vCenter=true&width=600&lines=Software+Enginnering...;Developing+websites.;Solving+Problems.;Debugging+Errors%2C+and+also+improving+it.;Learning%2C+Improving%2C+Creating+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Currently expanding my knowledge in **Full-Stack development**, more so in **Fro
 
 <ul>
   <li>🛠️ Currently building some websites projects.</li>
-  <li>🚀 Learning and implementing skills in Javascript, HTML, and Tailwindcss.</li>
+  <li>🚀 Learning and implementing skills in Javascript, HTML,React and Tailwindcss.</li>
   
   <li>📬 Reach me at: <a href="mailto:kemboibilly49@gmail.com">kemboibilly49@gmail.com</a></li>
   <br>
