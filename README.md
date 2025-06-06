@@ -12,7 +12,13 @@
 </p>
 
 ---
-
+<div align="center" >
+    <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="75">&nbsp; 
+   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
+   <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="75">&nbsp; 
+   <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" width="75">&nbsp;
+  </div>
+  
 <p align="center">
   <a href="https://linkedin.com/in/abdullahi-bashir-74256b2b5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -78,10 +84,7 @@ Currently expanding my knowledge in **Full-Stack development**, more so in **Fro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
 
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=18mori&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=18mori&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=18mori&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 
 <div align="center">
