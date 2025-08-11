@@ -47,6 +47,9 @@ Currently expanding my knowledge in **Full-Stack development**, more so in **Fro
 <ul>
   <li>🛠️ Currently building some websites projects.</li>
   <li>🚀 Learning and implementing skills in Javascript, HTML,React and Tailwindcss.</li>
+                        <li>🚀 Python</li>
+                        <li>🚀 Django</li>
+  
   
   <li>📬 Reach me at: <a href="mailto:kemboibilly49@gmail.com">kemboibilly49@gmail.com</a></li>
   <br>
