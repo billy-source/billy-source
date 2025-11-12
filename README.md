@@ -47,24 +47,9 @@ My goal is to build efficient systems that make a real impact while continuously
 I enjoy transforming creative ideas into functional digital experiences while learning new technologies and best practices in modern web development.
 
 ---
+🧠 Talking About Personal Stuff
 
-## 🧠 Talking About Personal Stuff:
-
-<table>
-<tr>
-<td>
-
-<ul>
-  <li>🛠️ Currently building some websites projects.</li>
-  <li>🚀 Learning and implementing skills in Javascript, HTML,React and Tailwindcss.</li>
-                        <li>🚀 Python</li>
-                        <li>🚀 Django</li>
-  
-  
-  <li>📬 Reach me at: <a href="mailto:kemboibilly49@gmail.com">kemboibilly49@gmail.com</a></li>
-  <br>
-  
-</ul>
+<table> <tr> <td> <ul> <li>🛠️ Currently working on several web development projects.</li> <li>🚀 Expanding my skills in <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong>.</li> <li>🐍 Exploring backend technologies with <strong>Python</strong> and <strong>Django</strong>.</li> <li>💡 Passionate about building clean, scalable, and responsive web applications.</li> <li>📬 Reach me at: <a href="mailto:kemboibilly49@gmail.com">kemboibilly49@gmail.com</a></li> </ul> </td> </tr> </table>
 
 </td>
 <td>
