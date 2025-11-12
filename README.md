@@ -33,8 +33,18 @@
 
 ## 🙌 About Me
 
-I'm a passionate **Software Enginner** in the making, focused on building websites and also bring efficciency in existing websites&debbuging.  
-Currently expanding my knowledge in **Full-Stack development**, more so in **Front-End development**.
+I’m a passionate Software Engineer in the making, dedicated to crafting scalable, secure, and user-friendly web applications.
+My goal is to build efficient systems that make a real impact while continuously improving my coding and design skills.
+
+💡 What I work with:
+
+🧠 Languages & Frameworks: React.js, Django, JavaScript, Python
+
+🗄️ Database: PostgreSQL
+
+🌐 Focus: Full Stack Development, UI/UX Design, and Web Application Performance
+
+I enjoy transforming creative ideas into functional digital experiences while learning new technologies and best practices in modern web development.
 
 ---
 
