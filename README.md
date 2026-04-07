@@ -12,6 +12,20 @@
 </p>
 
 ---
+
+<!-- 🔥 ADDED STREAK SECTION -->
+## 🔥 My GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=billy-source&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  💪 <strong>Goal:</strong> Stay consistent and never break the chain!
+</p>
+
+---
+
 <div align="center" >
     <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="75">&nbsp; 
    <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
@@ -61,8 +75,6 @@ I enjoy transforming creative ideas into functional digital experiences while le
 </table>
 
 ---
-
-
 
 ## 🐍 GitHub Contribution Snake
 
